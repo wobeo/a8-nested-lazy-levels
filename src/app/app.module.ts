@@ -28,7 +28,7 @@ import { ProfileComponent } from './profile/profile.component';
     // Page404leavesComponent,
     // CasualComponent,
     // EarnedComponent,
-    // Page404balanceComponent
+    Page404balanceComponent
   ],
   imports: [
     BrowserModule,
